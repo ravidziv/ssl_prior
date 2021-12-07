@@ -1,0 +1,69 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="game3 (1)" remoteFilesAllowedToDisappearOnAutoupload="false">
+    <serverData>
+      <paths name="game3 (1)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/aa-user/ravidziv/ssl_priors" local="$PROJECT_DIR$/../ssl_prior" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="game3 (2)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../ssl_prior" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gauss">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/solo_n" local="$PROJECT_DIR$/../ssl_prior" web="/" />
+            <mapping deploy="" local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="gaussi">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/ravid_z/solo_n" local="$PROJECT_DIR$/../ssl_prior" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="greence">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../ssl_prior" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="greence_c">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/rs8020/ssl_priors" local="$PROJECT_DIR$/../ssl_prior" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pd">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../ssl_prior" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="pd_o">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$/../ssl_prior" web="/" />
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
